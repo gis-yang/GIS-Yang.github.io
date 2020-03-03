@@ -87,7 +87,7 @@ author:
   email            : "Bo.Yang@ucf.edu"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
