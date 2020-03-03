@@ -9,12 +9,12 @@
 locale                   : "en-US"
 title                    : "Spatial Temporal GIS Lab"
 title_separator          : "-"
-name                     : &name "Bo Yang"
+name                     : "Bo Yang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gisboyang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GISBoYang/GISBoYang.github.io"
-teaser                   :  "bio-photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :   # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -83,9 +83,9 @@ author:
   name             : "Dr. Bo Yang"
   avatar           : "profile.png"
   bio              : "Postdoc@UCF"
-  location         : "Orlando, FL"
-  employer         : "University of Central Florida"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "UCF@Orlando, FL"
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/GISBoYang"
+  github           : "GISBoYang"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/GISBoYang"
+  twitter          : "GISBoYang"
   vine             :
   weibo            :
   xing             :
