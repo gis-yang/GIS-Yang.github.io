@@ -84,6 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Interdisciplinary postdoctoral scientist"
   location         : "UCF@Orlando, FL"
+  email            : "Bo.Yang@ucf.edu"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -114,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  email            : "Bo.Yang@ucf.edu"
+  
 
 
 # Reading Files
