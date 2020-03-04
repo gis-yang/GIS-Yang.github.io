@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary postdoctoral scientist in the Department of Sociology and the College of Sciences Geospatial Technologies Cluster at the University of Central Florida (UCF). I received my Ph.D. in the [Department of Geography & GIS](https://www.artsci.uc.edu/departments/geography.html/) from the University of Cincinnati in October 2018. My research interests are: GIScience, spatial statistics, UAV & Drone coastal mapping, machine learning algorithms, environmental and sociological modelling. 
+I am an interdisciplinary postdoctoral scientist in the [Department of Sociology](https://sciences.ucf.edu/sociology/) and the College of Sciences Geospatial Technologies Cluster at the University of Central Florida (UCF). I received my Ph.D. in the [Department of Geography & GIS](https://www.artsci.uc.edu/departments/geography.html/) from the University of Cincinnati in October 2018. My research interests are: 'GIScience', 'spatial statistics', 'UAV & drone coastal mapping', 'machine learning algorithms', 'environmental and sociological modelling'. 
 
 A data-driven personal website
 ======
