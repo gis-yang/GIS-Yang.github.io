@@ -10,6 +10,9 @@ redirect_from:
 
 I am an interdisciplinary postdoctoral scientist in the [Department of Sociology](https://sciences.ucf.edu/sociology/) and the College of Sciences Geospatial Technologies Cluster at the University of Central Florida (UCF). I received my Ph.D. in the [Department of Geography & GIS from the University of Cincinnati](https://www.artsci.uc.edu/departments/geography.html/) in October 2018. My research interests are: `GIScience`, `spatial statistics`, `UAV & drone coastal mapping`, `machine learning algorithms`, `environmental and sociological modelling`. 
 
+I am co-leading a collaborative $1.3 million dollar grant with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) from [National Science Foundation (NSF) Division Of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information of the NSF project can be found at Citizen Science GIS website.](http://www.citizensciencegis.org/projects/drone-mapping/)
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
