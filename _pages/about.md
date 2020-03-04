@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary postdoctoral scientist in the [Department of Sociology](https://sciences.ucf.edu/sociology/) and the College of Sciences Geospatial Technologies Cluster at the University of Central Florida (UCF). I received my Ph.D. in the [Department of Geography & GIS from the University of Cincinnati](https://www.artsci.uc.edu/departments/geography.html/) in October 2018. My research interests are: `GIScience`, `spatial statistics`, `UAV & drone coastal mapping`, `machine learning algorithms`, `environmental and sociological modelling`. 
+I am an interdisciplinary postdoctoral scientist in the [Department of Sociology](https://sciences.ucf.edu/sociology/) and the College of Sciences Geospatial Technologies Cluster at the University of Central Florida (UCF). I received my Ph.D. in the [Department of Geography & GIS from the University of Cincinnati](https://www.artsci.uc.edu/departments/geography.html/) in October 2018. My research interests are: GIScience, spatial statistics, UAV & drone coastal mapping, machine learning algorithms, environmental and sociological modelling. 
 
-I am co-leading a collaborative $1.3 million dollar grant with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) from [National Science Foundation (NSF) Division Of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information of the NSF project can be found at Citizen Science GIS website.](http://www.citizensciencegis.org/projects/drone-mapping/)
+I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) a collaborative $1.3 million dollar grant  from [National Science Foundation (NSF) Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information](http://www.citizensciencegis.org/projects/drone-mapping/) of the NSF project can be found at Citizen Science GIS website.
 
 
 A data-driven personal website
