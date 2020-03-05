@@ -37,4 +37,4 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
 ## NSF Research Experiences for Teachers (RET)
 
 
-**contact**: [Bo.Yang@ucf.edu](Bo.Yang@ucf.edu)
+**Contact**: [Bo.Yang@ucf.edu](Bo.Yang@ucf.edu)
