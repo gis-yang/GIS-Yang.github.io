@@ -37,6 +37,7 @@ I lead the drone team in [Citizen Science GIS](http://www.citizensciencegis.org/
 
 ## NSF Research Experiences for Teachers (RET)
 As the supplementary project for NSF & Smithsonian eelgrass mapping project, I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. My drone mapping team work with teachers participating fieldworks along west coast and developing a science unit of 5-7 classroom lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
+<img src="/images/sandbox.jpg" alt="11">
 
 ## Open Source Geospatial Foundation (OSGeo)
 
