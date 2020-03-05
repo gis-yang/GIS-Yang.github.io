@@ -33,8 +33,10 @@ I serve as leading postdoc for a collaborative $1.3 million dollar grant  from N
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm. 
 
 ## Citizen Science GIS
+I lead the drone team in [Citizen Science GIS](http://www.citizensciencegis.org/). I am one of key personnel for the UCF GeoBus project.
 
 ## NSF Research Experiences for Teachers (RET)
+As the supplementary project for NSF & Smithsonian eelgrass mapping project, I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. My drone mapping team work with teachers participating fieldworks along west coast and developing a science unit of 5-7 classroom lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
 
 ## Open Source Geospatial Foundation (OSGeo)
 
