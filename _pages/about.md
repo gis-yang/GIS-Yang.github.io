@@ -29,14 +29,13 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
 
 ## NSF Drone Mapping and GIS for coastal seagrass
 I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [This project](http://www.citizensciencegis.org/projects/drone-mapping/) is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
-<img src="/images/AK_eelgrass.jpg" alt="">
+<img src="/images/OR_eelgrass.jpg" alt="">
  
 
 ## Citizen Science GIS
 I lead the drone team in [Citizen Science GIS](http://www.citizensciencegis.org/). I am one of key personnel for the UCF GeoBus project. We were founded in July 2015 in Orlando, Florida and continue to grow with your collaboration and support. Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
 
 ## NSF Research Experiences for Teachers (RET)
-[\images\AK_eelgrass.jpg]
 As the supplementary project for NSF & Smithsonian eelgrass mapping project, I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. My drone mapping team work with teachers participating fieldworks along west coast and developing a science unit of 5-7 classroom lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
 
 ## Open Source Geospatial Foundation (OSGeo)
