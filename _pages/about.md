@@ -26,7 +26,7 @@ I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of d
 
 ## NSF Drone Mapping and GIS for coastal seagrass
 I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [This project](http://www.citizensciencegis.org/projects/drone-mapping/) is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
-<img src="/images/OR_eelgrass.jpg" alt="">
+<img src="/images/OR_eelgrass.jpg">
 
 
 ## Geo-statistical algorithms & ST-Cokriging
@@ -39,7 +39,7 @@ I lead the drone team in [Citizen Science GIS](http://www.citizensciencegis.org/
 
 ## NSF Research Experiences for Teachers (RET)
 As the supplementary project for NSF & Smithsonian eelgrass mapping project, I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. My drone mapping team work with teachers participating fieldworks along west coast and developing a science unit of 5-7 classroom lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
-<img src="/images/sandbox.jpg" alt="11">
+<img src="/images/sandbox.jpg">
 
 ## Open Source Geospatial Foundation (OSGeo)
 
