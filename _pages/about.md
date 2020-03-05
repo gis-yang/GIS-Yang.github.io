@@ -34,8 +34,8 @@ I serve as leading postdoc for a collaborative $1.3 million dollar grant  from N
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
  
 
-## Citizen Science GIS
-I lead the drone team in [Citizen Science GIS](http://www.citizensciencegis.org/). I am one of key personnel for the UCF GeoBus project. We were founded in July 2015 in Orlando, Florida and continue to grow with your collaboration and support. Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
+## [Citizen Science GIS](http://www.citizensciencegis.org/).
+Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
 <img src="/images/Geobus.jpg">
 
 ## NSF Research Experiences for Teachers (RET)
