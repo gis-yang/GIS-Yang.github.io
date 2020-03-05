@@ -13,15 +13,15 @@ I am an interdisciplinary postdoctoral scientist in the
 and the College of Sciences Geospatial Technologies Cluster at 
 the University of Central Florida (UCF). 
 
-I have an interdisciplinary education background with a B. S. degree in applied mathematics, A M.S. degree in computer science, and a M.A. degree in Geographical Information System (GIS).I received my Ph.D. in 
+I have an interdisciplinary education background with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A.  in Geographical Information System (GIS). I received my Ph.D. in 
 the Geography at the [University of 
 Cincinnati](
 https://www.artsci.uc.edu/departments/geography.html/) in 
 October 2018. 
 
-My research interests are: _GIScience, spatial 
+My research interests are: **_GIScience, spatial 
 statistics, UAV & drone coastal mapping, machine learning 
-algorithms, environmental and sociological modelling._
+algorithms, environmental and sociological modelling._**
 
 I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, you can find me fiddling with tech gadgets, car-hacking, and playing basketball.
 
