@@ -161,6 +161,8 @@ This tag shows **bold text**.
 
 ### Subscript Tag
 
+![image](/images/AK_eelgrass.jpg)
+
 Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
 
 ### Superscript Tag
