@@ -29,7 +29,7 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
 
 ## NSF Drone Mapping and GIS for coastal seagrass
 I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [This project](http://www.citizensciencegis.org/projects/drone-mapping/) is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
-![image](/images/AK_eelgrass.jpg)
+<img src="/images/AK_eelgrass.jpg" alt="">
  
 
 ## Citizen Science GIS
