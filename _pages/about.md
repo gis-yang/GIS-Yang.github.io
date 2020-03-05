@@ -17,8 +17,8 @@ the Geography at the [University of
 Cincinnati](
 https://www.artsci.uc.edu/departments/geography.html/) in 2018. 
 
-My research interests are: **_GIScience, spatial 
-statistics, UAV & drone coastal mapping, machine learning 
+My research interests are: **_GIScience, UAV & drone coastal mapping, spatial 
+statistics,  machine learning 
 algorithms, environmental and sociological modelling._**
 
 I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, you can find me fiddling with tech gadgets, car mod, and playing basketball.
