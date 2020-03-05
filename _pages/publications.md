@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## PEER-REVIEWED PUBLICATIONS
+### PEER-REVIEWED PUBLICATIONS
 
  1. **Yang, B.**, Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H., (2020). A spatio-temporal Cokriging method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. International Journal of Geographical Information Science (In press). (IF: 3.545)
  2. Shu, S., Liu, H., Beck, R., Frappart, F., Korhonen, J., Xu, M., **Yang, B.**, Hinkel, K., Huang, Y., Yu, B., (2020). Analysis of Sentinel-3 SAR Altimetry Waveform Retracking Algorithms for Deriving Temporally Consistent Water Levels over Inland Lakes. Remote Sensing of Environment, 239, 111643. (IF: 8.791)
@@ -21,12 +21,12 @@ author_profile: true
  13. Beck, R., Zhan, S., Liu, H., Tong, S., **Yang, B.**, Xu, M., et al. (2016). Comparison of satellite reflectance algorithms for estimating chlorophyll-a in a temperate reservoir using coincident hyperspectral aircraft imagery and dense coincident surface observations. Remote Sensing of Environment, 178, 15-30 (IF: 8.791)
  14. Zhang, W. G., **Yang, B.**, Ding, R., & Hu, Y. Q. (2010). Design of High-Speed Decoder for New High-Speed Bus. In Applied Mechanics and Materials, 20, 958-962. (IF: 0.37)
 
-## CONFERENCE PAPERS
+### CONFERENCE PAPERS
 
  1. Liu, H., **Yang, B.**, & Kang, E. (2015, July). Cokriging method for spatio-temporal assimilation of multi-scale satellite data. In 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (pp. 3314-3316). IEEE.
  2. **Yang, B.**, & Zhang, W. (2011, October). Intelligent learning system based on HMM model. In 2011 Fourth International Symposium on Knowledge Acquisition and Modeling (pp. 490-492). IEEE.
  
-## PEER-REVIEWED MANUSCRIPTS UNDER REVIEW & IN PROGRESS
+### PEER-REVIEWED MANUSCRIPTS UNDER REVIEW & IN PROGRESS
 
  1. **Yang, B.**, Liu, H., Kang, E., Hawthorne, T., Tong, S., Shu, S., Impacts of traffic volume on the intensity and spatial extent of urban heat island (Under review in Geophysical Research Letters)
  2. **Yang, B.**, Liu, H., Kang, E., Shu, S., Xu, M., Wu, B., Beck, R., Hinkel, K., & Yu, B., Spatio-temporal Cokriging method for blending and downscaling multi-scale remote sensing data. (Under review in Remote Sensing of Environment)

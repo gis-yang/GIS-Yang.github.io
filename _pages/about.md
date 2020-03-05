@@ -25,13 +25,13 @@ algorithms, environmental and sociological modelling._**
 
 I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, you can find me fiddling with tech gadgets, car-hacking, and playing basketball.
 
-Drone Mapping and GIS for coastal ecosystem management
+Drone Mapping and GIS for coastal seagrass
 ======
 I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) a collaborative $1.3 million dollar grant  from [National Science Foundation (NSF) Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information](http://www.citizensciencegis.org/projects/drone-mapping/) of the NSF project can be found at Citizen Science GIS website.
 
 
 
-Geo-statistical algorithm for sociological and environmental modelling
+Geo-statistical algorithms
 ======
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm. 
 
