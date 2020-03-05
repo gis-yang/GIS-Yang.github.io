@@ -16,7 +16,7 @@ the University of Central Florida (UCF). I have an multiple education background
 the Geography at the [University of 
 Cincinnati](
 https://www.artsci.uc.edu/departments/geography.html/) in 
-October 2018. 
+ 2018. 
 
 My research interests are: **_GIScience, spatial 
 statistics, UAV & drone coastal mapping, machine learning 
