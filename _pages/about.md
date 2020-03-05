@@ -15,8 +15,7 @@ and the College of Sciences Geospatial Technologies Cluster at
 the University of Central Florida (UCF). I have an multiple education backgrounds with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A.  in GIS. I received my Ph.D. in 
 the Geography at the [University of 
 Cincinnati](
-https://www.artsci.uc.edu/departments/geography.html/) in 
- 2018. 
+https://www.artsci.uc.edu/departments/geography.html/) in 2018. 
 
 My research interests are: **_GIScience, spatial 
 statistics, UAV & drone coastal mapping, machine learning 
