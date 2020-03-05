@@ -14,14 +14,14 @@ Department of Sociology
 and the College of Sciences Geospatial Technologies Cluster at 
 the [University of Central Florida (UCF)](https://sciences.ucf.edu/sociology/). I have multiple education backgrounds with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A.  in GIS. I received my Ph.D. in 
 the Geography at the [University of 
-Cincinnati](
+Cincinnati (UC)](
 https://www.artsci.uc.edu/departments/geography.html/) in 2018. 
 
 My research interests are: **_GIScience, UAV & drone coastal mapping, spatial 
 statistics,  machine learning 
 algorithms, environmental and sociological modelling._**
 
-I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, you can find me fiddling with tech gadgets, car mod, and playing basketball.
+I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball.
 
 ## NSF Drone Mapping and GIS for coastal seagrass
 
@@ -35,6 +35,8 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
 ## Citizen Science GIS
 
 ## NSF Research Experiences for Teachers (RET)
+
+## Open Source Geospatial Foundation (OSGeo)
 
 
 **Contact**: [Bo.Yang@ucf.edu](Bo.Yang@ucf.edu)
