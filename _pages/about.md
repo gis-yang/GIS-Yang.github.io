@@ -25,7 +25,7 @@ I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of d
 
 ## NSF Drone Mapping and GIS for coastal seagrass
 
-I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information](http://www.citizensciencegis.org/projects/drone-mapping/) of the NSF project can be found at Citizen Science GIS website.
+I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [This project](http://www.citizensciencegis.org/projects/drone-mapping/) is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
 
 
 ## Geo-statistical algorithms & ST-Cokriging
