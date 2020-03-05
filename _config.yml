@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SpatialTemporal GIS&Drone"
+title                    : "Yang's GIS Blog"
 title_separator          : "-"
 name                     : "Bo Yang"
-description              : "personal description"
+description              : "Yang's GIS Blog, GIS, Drone mapping, spatial statistics"
 url                      : https://gis-yang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GISBoYang/GISBoYang.github.io"
