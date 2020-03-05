@@ -11,28 +11,31 @@ redirect_from:
 I am an interdisciplinary postdoctoral scientist in the 
 [Department of Sociology](https://sciences.ucf.edu/sociology/) 
 and the College of Sciences Geospatial Technologies Cluster at 
-the University of Central Florida (UCF). I received my Ph.D. in 
-the Department of Geography & GIS from the [University of 
+the University of Central Florida (UCF). 
+
+I have an interdisciplinary education background with a B. S. degree in applied mathematics, A M.S. degree in computer science, and a M.A. degree in Geographical Information System (GIS).I received my Ph.D. in 
+the Geography at the [University of 
 Cincinnati](
 https://www.artsci.uc.edu/departments/geography.html/) in 
-October 2018. My research interests are: _GIScience, spatial 
+October 2018. 
+
+My research interests are: _GIScience, spatial 
 statistics, UAV & drone coastal mapping, machine learning 
 algorithms, environmental and sociological modelling._
 
 I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, you can find me fiddling with tech gadgets, car-hacking, and playing basketball.
 
-Drone Mapping for coastal ecosystem management
+Drone Mapping and GIS for coastal ecosystem management
 ======
 I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) a collaborative $1.3 million dollar grant  from [National Science Foundation (NSF) Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information](http://www.citizensciencegis.org/projects/drone-mapping/) of the NSF project can be found at Citizen Science GIS website.
 
 
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Geo-statistical algorithm for sociological and environmental modelling
 ======
+For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm. 
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
