@@ -28,7 +28,7 @@ I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of d
 I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/thawthorne/) a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/) at the University of Central Florida (UCF). [More information](http://www.citizensciencegis.org/projects/drone-mapping/) of the NSF project can be found at Citizen Science GIS website.
 
 
-## Geo-statistical algorithms
+## Geo-statistical algorithms & ST-Cokriging
 
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm. 
 
