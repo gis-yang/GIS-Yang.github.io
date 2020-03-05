@@ -12,7 +12,7 @@ Yang's GIS blog aims to share research progresses and resrouces of Geographical 
 I am an interdisciplinary postdoctoral scientist in the 
 [Department of Sociology](https://sciences.ucf.edu/sociology/) 
 and the College of Sciences Geospatial Technologies Cluster at 
-the University of Central Florida (UCF). I have an multiple education backgrounds with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A.  in GIS. I received my Ph.D. in 
+the University of Central Florida (UCF). I have multiple education backgrounds with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A.  in GIS. I received my Ph.D. in 
 the Geography at the [University of 
 Cincinnati](
 https://www.artsci.uc.edu/departments/geography.html/) in 2018. 
