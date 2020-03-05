@@ -25,7 +25,7 @@ I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of d
 
 
 ## NSF Drone Mapping and GIS for coastal seagrass
-I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/projects/drone-mapping/)at the University of Central Florida (UCF). This project is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
+I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) [Division of Ocean Sciences](https://www.nsf.gov/div/index.jsp?div=oce) supports [Citizen Science GIS](http://www.citizensciencegis.org/projects/drone-mapping/) at the University of Central Florida (UCF). This project is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
 <img src="/images/OR_eelgrass.jpg">
 
 
@@ -34,7 +34,7 @@ I serve as leading postdoc for a collaborative $1.3 million dollar grant  from N
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
  
 
-## [Citizen Science GIS](http://www.citizensciencegis.org/).
+## [Citizen Science GIS](http://www.citizensciencegis.org/)
 Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
 <img src="/images/Geobus.jpg">
 
