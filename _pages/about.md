@@ -38,7 +38,7 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
 I lead the drone team in [Citizen Science GIS](http://www.citizensciencegis.org/). I am one of key personnel for the UCF GeoBus project. We were founded in July 2015 in Orlando, Florida and continue to grow with your collaboration and support. Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
 
 ## NSF Research Experiences for Teachers (RET)
-As the supplementary project for NSF & Smithsonian eelgrass mapping project, I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. My drone mapping team work with teachers participating fieldworks along west coast and developing a science unit of 5-7 classroom lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
+I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
 <img src="/images/sandbox.jpg">
 
 ## Open Source Geospatial Foundation (OSGeo)
