@@ -23,4 +23,4 @@ algorithms, environmental and sociological modelling._**
 
 I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball.
 
-**Contact**: [Bo.Yang@ucf.edu](Bo.Yang@ucf.edu)
+Pronouns: he/him/his
