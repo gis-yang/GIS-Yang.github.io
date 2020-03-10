@@ -28,4 +28,20 @@ Academic Positions
 * 2011 August - 2013 July, Research Assistant
 	* Department of Geography, University of Cincinnati
 
+Research Interests
+======
+* Spatio-temporal modeling in GIS and Data science
+	* Spatio-temporal data modeling, assimilating, forecasting and hindcasting
+	* Spatial statistics, big data processing, machine learning, geo-intelligence
+	* High-performance computing, Parallel computing, Cloud computing
+* UAV & satellite remote sensing
+	* UAV/Drone mapping, Geographical fieldwork
+	* Optical, Multi-spectral, Hyper-spectral, Thermal, LiDAR, Radar, Nightlight imagery
+	* Image classification and segmentation, Object-based image analysis
+* Environmental and sociological modelling
+	* Coastal mapping, seagrass management and conservation
+	* Environmental and sociological modeling, Crime prediction
+	* Urban heat island, Global warming, Heatwave
+
+
 **[Download](https://www.dropbox.com/s/d3lp3ay5v0sqees/CV_BoYang_2020.pdf?dl=0) Yang's CV**
