@@ -26,4 +26,6 @@ I am co-leading the NSF RET project to build mutually rewarding partnerships wit
 
 ## Open Source Geospatial Foundation (OSGeo)
 
+<img src="/images/grass-gis.png">
+
 
