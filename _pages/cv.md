@@ -44,4 +44,4 @@ Research Interests
 	* Urban heat island, Global warming, Heatwave
 
 
-**[Download](https://www.dropbox.com/s/d3lp3ay5v0sqees/CV_BoYang_2020.pdf?dl=0) Yang's CV**
+**Yang's full CV [Download](https://www.dropbox.com/s/d3lp3ay5v0sqees/CV_BoYang_2020.pdf?dl=0)**
