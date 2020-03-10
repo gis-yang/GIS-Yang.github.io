@@ -26,11 +26,7 @@ author_profile: true
  1. Liu, H., **Yang, B.**, & Kang, E. (2015, July). Cokriging method for spatio-temporal assimilation of multi-scale satellite data. In 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (pp. 3314-3316). IEEE.
  2. **Yang, B.**, & Zhang, W. (2011, October). Intelligent learning system based on HMM model. In 2011 Fourth International Symposium on Knowledge Acquisition and Modeling (pp. 490-492). IEEE.
  
-### PEER-REVIEWED MANUSCRIPTS UNDER REVIEW & IN PROGRESS
 
- 1. **Yang, B.**, Liu, H., Kang, E., Hawthorne, T., Tong, S., Shu, S., Impacts of traffic volume on the intensity and spatial extent of urban heat island (Under review in Geophysical Research Letters)
- 2. **Yang, B.**, Liu, H., Kang, E., Shu, S., Xu, M., Wu, B., Beck, R., Hinkel, K., & Yu, B., Spatio-temporal Cokriging method for blending and downscaling multi-scale remote sensing data. (Under review in Remote Sensing of Environment)
- 3. **Yang, B.**, Hawthorne, T., Feinman, M., Searson, H., Hessing-Lewis, M., Reshitnyk, L., Duffy, E., Implementing an introductory drone mapping training program for coastal seagrass monitoring (To be submitted to Marine Ecology Progress Series)
 
 
 {% if author.googlescholar %}
