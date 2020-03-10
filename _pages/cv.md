@@ -17,7 +17,7 @@ Education
 * BS, Applied Mathematics – July 2008, Shaanxi Normal University, Shaanxi, China
 
 
-ACADEMIC POSITIONS
+Academic Positions
 ======
 * Interdisciplinary Postdoctoral Scientist 
 2018 October - present, Department of Sociology and College of Sciences Geospatial Technologies Cluster, University of Central Florida
