@@ -13,6 +13,7 @@ I serve as leading postdoc for a collaborative $1.3 million dollar grant  from N
 ## Geo-statistical algorithms & ST-Cokriging
 
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
+<img src="/images/CK_cloud.jpg">
  
 
 ## [Citizen Science GIS](http://www.citizensciencegis.org/)
@@ -26,4 +27,3 @@ I am co-leading the NSF RET project to build mutually rewarding partnerships wit
 ## Open Source Geospatial Foundation (OSGeo)
 
 
-**Contact**: [Bo.Yang@ucf.edu](Bo.Yang@ucf.edu)
