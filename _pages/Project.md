@@ -10,7 +10,7 @@ I serve as leading postdoc for a collaborative $1.3 million dollar grant  from N
 <img src="/images/OR_eelgrass.jpg">
 
 
-## Geo-statistical algorithms & ST-Cokriging
+## [Geo-statistical algorithms & ST-Cokriging](https://github.com/gis-yang/Crime-prediction)
 
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
 <img src="/images/CK_cloud.jpg">
