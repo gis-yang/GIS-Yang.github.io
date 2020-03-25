@@ -24,8 +24,8 @@ author_profile: true
 
 ### CONFERENCE PAPERS
 
- 1. Liu, H., **Yang, B.**, & Kang, E. (2015, July). Cokriging method for spatio-temporal assimilation of multi-scale satellite data. In 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (pp. 3314-3316). IEEE.
- 2. **Yang, B.**, & Zhang, W. (2011, October). Intelligent learning system based on HMM model. In 2011 Fourth International Symposium on Knowledge Acquisition and Modeling (pp. 490-492). IEEE.
+ * Liu, H., **Yang, B.**, & Kang, E. (2015, July). Cokriging method for spatio-temporal assimilation of multi-scale satellite data. In 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (pp. 3314-3316). IEEE.
+* **Yang, B.**, & Zhang, W. (2011, October). Intelligent learning system based on HMM model. In 2011 Fourth International Symposium on Knowledge Acquisition and Modeling (pp. 490-492). IEEE.
  
 
 
