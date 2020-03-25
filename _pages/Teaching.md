@@ -30,7 +30,7 @@ This course introduces the historical, sociological, economical, and political f
 
 
 ### Geog1044 Natural Hazards and Disasters
-![image](/images/naturehazard.jpg){:height="300px" width="300px"}{: style="float: left"} This course introduces basic concepts, causes, physical characteristics, spatial patterns, and impacts of natural hazards and disasters. The lectures cover earthquakes, volcanoes, tsunamis, hurricanes, tornadoes, coastal erosions, droughts, floods, and wildfires. Scientific knowledge, planning measures, management policy, and geo-spatial technologies will be also introduced for supporting societal preparedness, response, mitigation, recovery, and management of natural disasters.
+![image](/images/naturehazard.jpg){:height="300px" width="300px"}{: style="float: left"} This course introduces basic concepts, causes, physical characteristics, spatial patterns, and impacts of natural hazards and disasters. The lectures cover earthquakes, volcanoes, tsunamis, hurricanes, tornadoes, coastal erosions, droughts, floods, and wildfires. Scientific knowledge, planning measures, management policy, and geo-spatial technologies will be also introduced for supporting societal preparedness, response, mitigation, recovery, and management of natural disasters.                                                                                                               
 
 
 ### Geog1001 Introduction to Physical Geography
