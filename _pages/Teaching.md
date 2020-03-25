@@ -13,7 +13,7 @@ Geog1021 World Regional Geography – Instructor, UC Clermont College
 
 ## Univerisity of Cincinnati/UC Clermont 
 
-![image](/images/Earthfromspace.jpg){: height="700px"}{: style="float: left"} **Geog1040 Earth from Space**
+![image](/images/Earthfromspace.jpg){width=50%}{: style="float: left"} **Geog1040 Earth from Space**
 
 This course introduces basic concepts, principles and applications of satellite remote sensing, Global Positioning System (GPS), Web-based Geographical Information Systems (GIS) for the Earth Observations. The lectures cover the shape, size and motion of the Earth in space, geographical coordinate system, basic principles of satellite remote sensing, satellite orbits and remote sensors, satellite image interpretation and visualization, basic principles of GPS, internet GIS and digital earth, military applications of space technologies, applications of satellite remote sensing in weather forecasting, hurricane tracking, ocean observation, terrestrial topography and geomorphology, vegetation canopy, human settlements, and natural hazard managements. Hands-on tutorials will be given to students in using Google Earth, Virtual Earth, Google Map, GPS Receiver & Navigator, USGS and NASA satellite data search engines, and on-line satellite image viewer.
 
