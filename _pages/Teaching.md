@@ -4,9 +4,11 @@ title: "Teaching"
 permalink: /Teaching/
 author_profile: True
 ---
-
+{% comment %}
+this is commented out
 #Open access drone mapping trainig
 ![image](/images/dronetraining.jpg){:height="300px" width="300px"}{: style="float: left"}
+{% endcomment %}
 
 # Univerisity of Central Florida
 
