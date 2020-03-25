@@ -9,18 +9,17 @@ author_profile: True
 
 ## Univerisity of Central Florida
 
-### SYA6356   GIS in Society – Instructor, University of Central Florida
-Geog1005 Human Geography in Action – Instructor, UC Clermont College
-Geog1021 World Regional Geography – Instructor, UC Clermont College
+### SYA6356   GIS in Society
+GIS in Society class is an intro/intermediate course focusing on the conceptual introduction, methodological, and practical applications of Geographic Information Systems (GIS) as the technology's use in society continues to evolve and expand. Students will learn how to use GIS for spatial thinking and spatial analysis. Advanced topics may include, but are not limited to: GIS for exploring social & environmental inequalities, drone and satellite remote sensing, GIS programming for python.The lecture will cover theories, methodologies and applications of GIS techniques. The labs are designed to give students hands-on experience using ArcMap and ArcGIS Online.
 
 ## Univerisity of Cincinnati/UC Clermont 
 
 
 ### Geog1021 World Regional Geography
-
+This course investigates the variety and difference of places and realms. While maintaining a strong focus on relationships and connections of different parts of the world. This course also introduces the academic discipline of geography with applications of geography by engaging geographic approaches to social issues. Students will leave the course with an appreciation for geographic thinking, and the ability to contextualize global events, such as climate, economic, political, culture and etc. The knowledge is invaluable to understand your place in the world.
 
 ## Geog1005 Human Geography in Action
-
+This course introduces the historical, sociological, economical, and political forces that have shaped society. National and international policies and relationships and their connections to current news and events will be covered. Human geography deals with the world as it is and with the world as it might be made to be. Its emphasis is on people: where they are, what they are like, how they interact over space, and what kinds of landscapes of human use they erect on the natural landscapes they occupy. It encompasses all those interests and topics of geography that are not directly concerned with the physical environment or, like cartography, are technical in orientation.
 
 ### Geog1012 Landform and soils
 ![image](/images/landsoil.png){:height="300px" width="300px"}{: style="float: left"} This course provides a broad introduction to the Earth's landforms, its soils, and the processes that form them. A systems approach is used to link process with landscapes and soils. Included in the course are discussions of tectonic movements such as subduction (crustal destruction) and orogeny (mountain building), mass movements such as landslides and surface creep, the hydrologic cycle and water balances, fluvial (running water) systems and flood behavior, coastal erosion and movement, glacial processes, and soil development and differentiation.
