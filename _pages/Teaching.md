@@ -16,6 +16,7 @@ GIS in Society class is an intro/intermediate course focusing on the conceptual 
 
 
 ### Geog1021 World Regional Geography
+![image](/images/worldgeography.jpg){:height="240px" width="240px"}{: style="float: left"}
 This course investigates the variety and difference of places and realms. While maintaining a strong focus on relationships and connections of different parts of the world. This course also introduces the academic discipline of geography with applications of geography by engaging geographic approaches to social issues. Students will leave the course with an appreciation for geographic thinking, and the ability to contextualize global events, such as climate, economic, political, culture and etc. The knowledge is invaluable to understand your place in the world.                                                                                                                          
 
 ## Geog1005 Human Geography in Action
