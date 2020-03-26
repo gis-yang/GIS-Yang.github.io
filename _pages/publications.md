@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### PEER-REVIEWED PUBLICATIONS (15 total, 4 first author)
+### PEER-REVIEWED Papers (15 total, 4 first author)
 
 * **Yang, B.**, Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H., (2020). A spatio-temporal Cokriging method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. International Journal of Geographical Information Science (In press). (IF: 3.545) [DOI: 10.1080/13658816.2020.1737701](https://doi.org/10.1080/13658816.2020.1737701)
 * Shu, S., Liu, H., Beck, R., Frappart, F., Korhonen, J., Xu, M., **Yang, B.**, Hinkel, K., Huang, Y., Yu, B., (2020). Analysis of Sentinel-3 SAR Altimetry Waveform Retracking Algorithms for Deriving Temporally Consistent Water Levels over Inland Lakes. Remote Sensing of Environment, 239, 111643. (IF: 8.791) [DOI: 10.1016/j.rse.2020.111643](https://doi.org/10.1016/j.rse.2020.111643)
