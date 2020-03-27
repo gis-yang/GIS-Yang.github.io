@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Gallery"
-permalink: /gallery/
+permalink: /Gallery/
 author_profile: true
 ---
 | ![AK_eelgrass.jpg](http://gis-yang.github.io) | 
