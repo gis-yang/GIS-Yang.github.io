@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /Gallery/
 author_profile: true
 ---
-| [![image](/images/Gallery/dronetraining.jpg){:width="450px"}](https://doi.org/10.3390/drones3030060) | [![image](/images/Gallery/CarrieBow_GPSMap.jpg){:width="450px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) | 
+| [![image](/images/Gallery/dronetraining.jpg){:width="480px"}](https://doi.org/10.3390/drones3030060) | [![image](/images/Gallery/CarrieBow_GPSMap.jpg){:width="480px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) | 
 
 
 {% include base_path %}
