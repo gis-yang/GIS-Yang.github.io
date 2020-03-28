@@ -25,7 +25,7 @@ I am co-leading the NSF RET project to build mutually rewarding partnerships wit
 <img src="/images/sandbox.jpg">
 
 ## [Open Source Geospatial Foundation (OSGeo)](https://grass.osgeo.org/)
-GRASS GIS, commonly referred to as GRASS (Geographic Resources Analysis Support System), is a free and open source Geographic Information System (GIS) software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+I am in the developer team of GRASS7 for satellite image segmentation module (i.segment). GRASS GIS, commonly referred to as GRASS (Geographic Resources Analysis Support System), is a free and open source Geographic Information System (GIS) software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
 <img src="/images/grass-gis.png">
 
 
