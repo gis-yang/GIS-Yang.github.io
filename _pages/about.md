@@ -13,7 +13,7 @@ I am an interdisciplinary postdoctoral scientist in the
 Department of Sociology
 and the College of Sciences Geospatial Technologies Cluster at 
 the University of Central Florida (UCF). I have multiple education backgrounds with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A.  in GIS. I received my Ph.D. in 
-the Geography at the University of 
+the geography at the University of 
 Cincinnati (UC) in 2018. 
 
 My research interests are: **_GIScience, UAV & drone coastal mapping, spatial 
