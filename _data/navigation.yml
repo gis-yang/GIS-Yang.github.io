@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /Teaching/
-    
   - title: "Gallery"
     url: /Gallery/
+
+  - title: "Teaching"
+    url: /Teaching/
     
   - title: "Posts"
     url: /year-archive/
