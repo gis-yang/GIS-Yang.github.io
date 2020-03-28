@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yang's GIS page aims to share research progresses and resources of Geographical Information Science (GIS), UAV & Drone, machine learning, and spatio-temporal geo-statistics. 
+Yang's GIS page aims to share research progresses and resources of Geographical Information Science (GIS), UAV & Drone, and spatio-temporal geo-statistics. 
 
 I am an interdisciplinary postdoctoral scientist in the 
 Department of Sociology
