@@ -4,8 +4,8 @@ title: "Gallery"
 permalink: /Gallery/
 author_profile: true
 ---
-| [![image](/images/AK_eelgrass.jpg){:height = "200px"}](http://gis-yang.github.io) | ![image](/images/dronetraining.jpg){:height = "200px"} | 
-| ![image](/images/dronetraining.jpg){:height = "200px"} |[![image](/images/AK_eelgrass.jpg){:height = "200px"}](http://gis-yang.github.io)  |
+| [![image](/images/Gallery/dronetraining.jpg){:width = "400px"}](https://doi.org/10.3390/drones3030060) | [![image](/images/Gallery/CarrieBow_GPSMap.jpg){:width = "400px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) | 
+
 
 {% include base_path %}
 
