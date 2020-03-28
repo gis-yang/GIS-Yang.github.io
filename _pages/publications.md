@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### PEER-REVIEWED Publications
 
-* **Yang, B.**, Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H., (2020). A spatio-temporal Cokriging method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. International Journal of Geographical Information Science . (IF: 3.545) [DOI: 10.1080/13658816.2020.1737701](https://doi.org/10.1080/13658816.2020.1737701)
+* **Yang, B.**, Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H., (2020). A spatio-temporal method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. International Journal of Geographical Information Science . (IF: 3.545) [DOI: 10.1080/13658816.2020.1737701](https://doi.org/10.1080/13658816.2020.1737701)
 * Shu, S., Liu, H., Beck, R., Frappart, F., Korhonen, J., Xu, M., **Yang, B.**, Hinkel, K., Huang, Y., Yu, B., (2020). Analysis of Sentinel-3 SAR Altimetry Waveform Retracking Algorithms for Deriving Temporally Consistent Water Levels over Inland Lakes. Remote Sensing of Environment, 239, 111643. (IF: 8.791) [DOI: 10.1016/j.rse.2020.111643](https://doi.org/10.1016/j.rse.2020.111643)
 * Sun, H., Cai, C., Liu, H. and **Yang, B.,** (2020). A model for disaggregating microwave satellite soil moisture with land surface evapotranspiration products and gridded meteorological data, Remote Sensing, (IF: 4.118)  [DOI:10.3390/rs12060980](https://doi.org/10.3390/rs12060980)
 * **Yang, B.**, Tong, S., & Fan, R., (2019). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. Journal of Environmental Informatics (In press). (IF: 4.521) 
