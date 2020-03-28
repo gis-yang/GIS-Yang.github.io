@@ -18,7 +18,7 @@ Cincinnati (UC) in 2018.
 
 My research interests are: **_GIScience, UAV & drone coastal mapping, spatial 
 statistics,  machine learning 
-algorithms, environmental and sociological modelling._**
+algorithms, environmental and sociological modeling._**
 
 I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball.
 
