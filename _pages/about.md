@@ -20,7 +20,7 @@ My research interests are: **_GIScience, UAV & drone coastal mapping, spatial
 statistics,  machine learning 
 algorithms, environmental and sociological modelling._**
 
-I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Currently, I am leading a  drone mapping team for NSF & Smithsonian coastal mapping project supports Citizen Science GIS at UCF. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball.
+I am a FAA part 107 remote pilot and NASBLA recognized boat driver. Currently, I am leading a drone mapping team for NSF colaborative coastal mapping project supports Citizen Science GIS at UCF. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball.
 
 Pronouns: he/him/his
 
