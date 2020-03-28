@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /Gallery/
 author_profile: true
 ---
-| ![image](/images/AK_eelgrass.jpg) | ![image](/images/dronetraining.jpg) | 
+| [![image](/images/AK_eelgrass.jpg)](http://gis-yang.github.io) | ![image](/images/dronetraining.jpg) | 
 | [*AK eelgrass1*](http://gis-yang.github.io) |[*Drone training*](http://gis-yang.github.io) |
 
 {% include base_path %}
