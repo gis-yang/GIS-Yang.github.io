@@ -10,11 +10,7 @@ author_profile: true
 --|--
 [![image](/images/Gallery/Training-sites.jpg){:width="420px"}](http://www.citizensciencegis.org/projects/drone-mapping/)|[![image](/images/Gallery/eelgrass.jpg){:width="420px"}](http://www.citizensciencegis.org/projects/drone-mapping/)
 
-aa|bb
---|--
-ee|ff
 
-ee|ff
 
 {% include base_path %}
 
