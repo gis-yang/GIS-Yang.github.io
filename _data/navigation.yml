@@ -12,6 +12,9 @@ main:
   - title: "Gallery"
     url: /Gallery/
     
+  - title: "Talk"
+    url: /Talk/
+    
   #- title: "Posts"
   #  url: /year-archive/
     
