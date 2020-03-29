@@ -4,8 +4,8 @@ title: "Gallery"
 permalink: /Gallery/
 author_profile: true
 ---
-| [![image](/images/Gallery/dronetraining.jpg){:width="400px"}](https://doi.org/10.3390/drones3030060) | [![image](/images/Gallery/CarrieBow_GPSMap.jpg){:width="400px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) | 
-| [![image](/images/Gallery/Anderson.jpg){:width="400px"}](https://doi.org/10.1016/j.jag.2019.03.010) |[![image](/images/Gallery/Crime.jpg){:width="400px"}](https://doi.org/10.1080/13658816.2020.1737701)| 
+| [![image](/images/Gallery/dronetraining.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/images/Gallery/CarrieBow_GPSMap.jpg){:width="420px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) | 
+| [![image](/images/Gallery/Anderson.jpg){:width="420px"}](https://doi.org/10.1016/j.jag.2019.03.010) |[![image](/images/Gallery/Crime.jpg){:width="420px"}](https://doi.org/10.1080/13658816.2020.1737701)| 
 
 {% include base_path %}
 
