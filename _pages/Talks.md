@@ -5,7 +5,7 @@ permalink: /Talks/
 author_profile: true
 ---
 ## Invited Talks 
-* “Drone Mapping for Coastal Seagrass Monitoring and Citizen Science” in Department of Geography colloquium, University of Florida, Gainesville, FL, October 10, 2019.
+* “Drone Mapping for Coastal Seagrass Monitoring and Citizen Science” in Department of Geography colloquium, University of Florida, Gainesville, FL, October 10, 2019. [**View PDF**](/UF_Colloquium_Yang_20191009/)
 *  “Multi-spectral drone mapping over Indian River Lagoon” in UCF research week kick-off event, University of Central Florida, Orlando, FL, 2018, April 5, 2019.
 * “Spatio-temporal Cokriging Method for Blending and Downscaling Multi-scale Data” in UC geography colloquium series, University of Cincinnati, Cincinnati, OH, October 13, 2017
 
