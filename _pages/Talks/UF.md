@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talk"
 permalink: /UF_Colloquium_Yang_20191009/
 author_profile: true
 ---
