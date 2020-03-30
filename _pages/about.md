@@ -12,7 +12,7 @@ Yang's GIS page aims to share research progresses and resources of Geographical 
 I am an interdisciplinary postdoc in the 
 Department of Sociology
 and the College of Sciences Geospatial Technologies Cluster at 
-the University of Central Florida (UCF), leading a drone mapping team for an NSF colaborative coastal mapping project supports Citizen Science GIS. I have multiple education backgrounds with a B. S. degree in applied mathematics, a M.S. in computer science, and a M.A. in GIS. I received my Ph.D. in geography at the University of 
+the University of Central Florida (UCF), leading a drone mapping team for an NSF colaborative coastal mapping project supports Citizen Science GIS. I have multiple education backgrounds with a B.S. degree in applied mathematics, an M.S. in computer science, and an M.A. in GIS. I received my Ph.D. in geography at the University of 
 Cincinnati (UC) in 2018. 
 
 My research interests are: **_GIScience, UAV & drone coastal mapping, spatial 
