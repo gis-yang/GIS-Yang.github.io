@@ -44,6 +44,6 @@ Research Interests
 	* Urban heat island, Global warming, Heatwave
 
 
-# **Yang's full CV **
+# Yang's full CV
 <object data="/files/CV_BoYang_2020.pdf" width="1000" height="1000" type='application/pdf'/>
 
