@@ -14,7 +14,7 @@ this is commented out
 
 ### SYA6356 GIS in Society
 ![image](/images/gisinsociety.png){:height="240px" width="240px"}{: style="float: left"}
-GIS in Society class is an intro/intermediate course focusing on the conceptual introduction, methodological, and practical applications of Geographic Information Systems (GIS) as the technology's use in society continues to evolve and expand. Students will learn how to use GIS for spatial thinking and spatial analysis. Advanced topics may include, but are not limited to: GIS for exploring social & environmental inequalities, drone and satellite remote sensing, GIS programming for python.The lecture will cover theories, methodologies and applications of GIS techniques. The labs are designed to give students hands-on experience using ArcMap and ArcGIS Online.
+GIS in Society class is an intro and intermediate course focusing on the conceptual introduction, methodological, and practical applications of Geographic Information Systems (GIS) as the technology's use in society continues to evolve and expand. Students will learn how to use GIS for spatial thinking and spatial analysis. Advanced topics may include, but are not limited to: GIS for exploring social & environmental inequalities, drone and satellite remote sensing, GIS programming for python.The lecture will cover theories, methodologies and applications of GIS techniques. The labs are designed to give students hands-on experience using ArcMap and ArcGIS Online.
 
 ## Univerisity of Cincinnati/UC Clermont 
 
