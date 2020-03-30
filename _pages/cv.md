@@ -45,5 +45,5 @@ Research Interests
 
 
 # Yang's full CV
-<object data="/files/CV_BoYang_2020.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="/files/CV_BoYang_2020.pdf" width="800" height="1000" type='application/pdf'/>
 
