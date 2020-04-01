@@ -11,7 +11,7 @@ author_profile: true
 [![image](/images/Gallery/Training-sites.jpg){:width="420px"}](http://www.citizensciencegis.org/projects/drone-mapping/)|[![image](/images/Gallery/eelgrass.jpg){:width="420px"}](http://www.citizensciencegis.org/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier/)
 --|--
 [![image](/images/Gallery/FHL.jpg){:width="420px"}](http://www.citizensciencegis.org/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell/) | [![image](/images/Gallery/AK_Grass.jpg){:width="420px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) 
-
+--|--
 
 {% include base_path %}
 
