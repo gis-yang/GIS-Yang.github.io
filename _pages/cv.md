@@ -16,18 +16,6 @@ Education
 * M.S., Computer Science – July 2011, Capital Normal University, Beijing, China
 * B.S., Applied Mathematics – July 2008, Shaanxi Normal University, Shaanxi, China
 
-
-Academic Positions
-======
-* 2018.10 - Present, Interdisciplinary Postdoctoral Scientist 
-	* Department of Sociology and College of Sciences Geospatial Technologies Cluster, University of Central Florida
-* 2018.02 – Present, Adjunct Assistant Professor 
-	* Department of Geology and Geography, UC Clermont College
-* 2013.08 - 2018.07, Teaching Assistant
-	* Department of Geography, University of Cincinnati
-* 2011.08 - 2013.07, Research Assistant
-	* Department of Geography, University of Cincinnati
-
 Research Interests
 ======
 * Spatio-temporal modeling in GIS and Data science
