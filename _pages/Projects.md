@@ -17,7 +17,7 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
  
 
 ## [Citizen Science GIS](http://www.citizensciencegis.org/)
-Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
+Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at University of Central Florida lead by Dr. Timothy Hawthorne. We are a diverse group of faculty, students, and community partners around the world committed to strengthening the connections between science and society.
 <img src="/images/Geobus.jpg">
 
 ## [NSF Research Experiences for Teachers (RET)](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
