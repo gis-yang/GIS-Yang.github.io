@@ -43,10 +43,6 @@ Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of
 I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
 <img src="/images/sandbox.jpg">
 
-## [Open Source Geospatial Foundation (OSGeo)](https://grass.osgeo.org/)
-I am in the developer team of GRASS7 for satellite image segmentation module (i.segment). GRASS GIS, commonly referred to as GRASS (Geographic Resources Analysis Support System), is a free and open source Geographic Information System (GIS) software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
-<img src="/images/grass-gis.png">
-
 # Publications
 
 ### PEER-REVIEWED Publications
