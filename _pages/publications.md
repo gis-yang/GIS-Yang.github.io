@@ -7,7 +7,6 @@ author_profile: true
 ### PEER-REVIEWED Publications
 
 2020：
-
 * **Yang, B.**, Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H., (2020). A spatio-temporal method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. International Journal of Geographical Information Science, 1-25. (IF: 3.545) [DOI: 10.1080/13658816.2020.1737701](https://doi.org/10.1080/13658816.2020.1737701)
 * **Yang, B.**, Tong, S., & Fan, R., (2020). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. Journal of Environmental Informatics. (IF: 4.521) [Doi:10.3808/jei.202000433](http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433)
 * Shu, S., Liu, H., Beck, R., Frappart, F., Korhonen, J., Xu, M., **Yang, B.**, Hinkel, K., Huang, Y., Yu, B., (2020). Analysis of Sentinel-3 SAR Altimetry Waveform Retracking Algorithms for Deriving Temporally Consistent Water Levels over Inland Lakes. Remote Sensing of Environment, 239, 111643. (IF: 8.791) [DOI: 10.1016/j.rse.2020.111643](https://doi.org/10.1016/j.rse.2020.111643)
@@ -20,7 +19,7 @@ author_profile: true
 * Sun, H., Cai, C., Liu, H. and **Yang, B.**, (2019). Microwave and Meteorological Fusion: A method of Spatial Downscaling of Remotely Sensed Soil Moisture. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12(4), pp.1107-1119. (IF: 3.392) [DOI: 10.1109/JSTARS.2019.2901921](https://doi.org/10.1109/JSTARS.2019.2901921)
 * Xu, M., Liu, H., Beck, R., Lekki, J., **Yang, B.**, Shu, S., et al., (2019). Regionally and Locally Adaptive Models for Retrieving Chlorophyll-a Concentration in Inland Waters From Remotely Sensed Multispectral and Hyperspectral Imagery. IEEE Transactions on Geoscience and Remote Sensing, 57(7), 4758-4774. (IF: 5.63) [DOI: 10.1109/TGRS.2019.2892899](https://doi.org/10.1109/TGRS.2019.2892899)
 
-Before 2018： 
+2018 and before： 
 * Beck, R., Xu, M., Zhan, S., Johansen, R.A., Liu, H., Tong, S., **Yang, B.**, Shu, S., et al., (2018). Comparison of satellite reflectance algorithms for estimating turbidity and cyanobacterial concentrations in productive freshwaters using hyperspectral aircraft imagery and dense coincident surface observations. Journal of Great Lakes Research. 45(3), 413-433. (IF: 2.175) [DOI: 10.1016/j.jglr.2018.09.001](https://doi.org/10.1016/j.jglr.2018.09.001)
 * Xu, M., Liu, H., Beck, R., Lekki, J., **Yang, B.**, Shu, S., et al., (2018). A spectral space partition guided ensemble method for retrieving chlorophyll-a concentration in inland waters from Sentinel-2A satellite imagery. Journal of Great Lakes Research. 45(3), 454-465. (IF: 2.175) [DOI: 10.1016/j.jglr.2018.09.002](https://doi.org/10.1016/j.jglr.2018.09.002)
 * Johansen, R., Beck, R., Nowosad, J., Nietch, C., Xu, M., Shu, S., **Yang B.,** et al. (2018) Evaluating the portability of satellite derived chlorophyll-a algorithms for temperate inland lakes using airborne imagery and dense surface observations. Harmful algae, 76, 35-46. (IF: 5.012) [DOI: 10.1016/j.hal.2018.05.001](https://doi.org/10.1016/j.hal.2018.05.001)
