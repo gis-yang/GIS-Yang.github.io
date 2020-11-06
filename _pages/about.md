@@ -22,13 +22,15 @@ I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of 
 
 Curriculum Vitae: [CV_Yang](https://docs.google.com/document/d/1X4dQp722FGkrhZA4qp6Eu7vWaWDV-otF2zpRAI35AHI/edit?usp=sharing)
 
+Pronouns: he/him/his
+
 Contact:\
 Bo Yang\
 [Bo.Yang[a]ucf.edu](Bo.Yang@ucf.edu) \
-(407)823-4192\
+(407) 823-4192\
 4297 Andromeda Loop, Orlando, FL 32816\
 University of Central Florida\
-Pronouns: he/him/his
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
