@@ -18,7 +18,7 @@ I have multiple education backgrounds with a B.S. degree in applied mathematics,
 
 My research interests are: **_GIScience, spatial statistics, UAV & drone mapping, citizen science, environmental and sociological modeling._**
 
-I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball. I am currently maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for seagrass mapping. 
+I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball. I am maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for seagrass mapping. 
 
 Curriculum Vitae: [CV_Yang](https://docs.google.com/document/d/1X4dQp722FGkrhZA4qp6Eu7vWaWDV-otF2zpRAI35AHI/edit?usp=sharing)
 
