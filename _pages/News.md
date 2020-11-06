@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+2020
 ======
 * Ph.D., Geography – October 2018, University of Cincinnati, USA
 * M.A., Geographic Information System (GIS) – June 2013, University of Cincinnati, USA
 * M.S., Computer Science – July 2011, Capital Normal University, Beijing, China
 * B.S., Applied Mathematics – July 2008, Shaanxi Normal University, Shaanxi, China
 
-Research Interests
+2019
 ======
 * Spatio-temporal modeling in GIS and Data science
 	* Spatio-temporal data modeling, assimilating, forecasting and hindcasting
@@ -31,7 +31,8 @@ Research Interests
 	* Environmental and sociological modeling, Crime prediction
 	* Urban heat island, Global warming, Heatwave
 
+2018
+======
 
-# Yang's full CV
 <object data="/files/CV_BoYang_2020.pdf" width="800" height="1000" type='application/pdf'/>
 
