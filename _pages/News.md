@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "News"
+permalink: /News/
 author_profile: true
 redirect_from:
-  - /resume
+  - /blog
 ---
 
 {% include base_path %}
