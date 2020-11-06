@@ -12,13 +12,24 @@ Yang's GIS page aims to share research progresses and resources of Geographical 
 I am an interdisciplinary postdoc in the 
 Department of Sociology
 and the College of Sciences Geospatial Technologies Cluster at 
-the University of Central Florida (UCF). I am co-leading with Dr. Timothy Hawthone for an NSF colaborative coastal mapping project supports Citizen Science GIS. This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
+the University of Central Florida (UCF). I am co-leading with Dr. Timothy Hawthone for an NSF colaborative coastal mapping [project](https://www.citizensciencegis.org/nsfsmithosniandrones) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
 
-I have multiple education backgrounds with a B.S. degree in applied mathematics, an M.S. in computer science, and an M.A. in GIS. I received my Ph.D. in geography at the University of Cincinnati (UC) in 2018 under the direction of Dr. Hongxing Liu. 
+I have multiple education backgrounds with a B.S. degree in applied mathematics, an M.S. in computer science, and an M.A. in GIS. I received my Ph.D. in geography at the University of Cincinnati (UC) in 2018 advised by Dr. Hongxing Liu. 
 
 My research interests are: **_GIScience, spatial statistics, UAV & drone mapping, citizen science, environmental and sociological modeling._**
 
-I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball.
+I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets, car mod, and playing basketball. I am currently maintaining a open-access UAV/drone [training course](https://gis-yang.github.io/DroneMapping/) for seagrass mapping. 
+
+Curriculum Vitae: [-pdf-](https://docs.google.com/document/d/1X4dQp722FGkrhZA4qp6Eu7vWaWDV-otF2zpRAI35AHI/edit?usp=sharing)
+
+Contact:
+Bo Yang
+[Bo.Yang[a]ucf.edu](Bo.Yang@ucf.edu)
+(407)823-4192
+4297 Andromeda Loop, Orlando, FL 32816
+University of Central Florida
+
+
 
 Pronouns: he/him/his
 
