@@ -18,21 +18,17 @@ redirect_from:
 
 2019
 ======
-* Spatio-temporal modeling in GIS and Data science
-	* Spatio-temporal data modeling, assimilating, forecasting and hindcasting
-	* Spatial statistics, big data processing, machine learning, geo-intelligence
-	* High-performance computing, Parallel computing, Cloud computing
-* UAV & satellite remote sensing
-	* UAV/Drone mapping, Geographical fieldwork
-	* Optical, Multi-spectral, Hyper-spectral, Thermal, LiDAR, Radar, Nightlight imagery
-	* Image classification and segmentation, Object-based image analysis
-* Environmental and sociological modelling
-	* Coastal mapping, seagrass management and conservation
-	* Environmental and sociological modeling, Crime prediction
-	* Urban heat island, Global warming, Heatwave
+07.01.2019 [UAV fieldwork in Oregon finished](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-mapping-with-team-from-oregon-state-and-cornell)
+
+07.16.2019 [UAV fieldwork in Bodega Bay finished with UC Davis Team](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis)
+
+06.12.2019 [UAV fieldwork completed with Cornell team at Friday Harbor Lab, WA](https://www.citizensciencegis.org/blog/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell)
+
+11.08.2019 [Capturing the Beauty of Belize from Above with Smithsonian MarineGEO](https://www.citizensciencegis.org/blog/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo)
+
+
 
 2018
 ======
 
-<object data="/files/CV_BoYang_2020.pdf" width="800" height="1000" type='application/pdf'/>
 
