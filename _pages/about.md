@@ -14,7 +14,7 @@ Department of Sociology
 and the College of Sciences GIS Cluster at 
 the University of Central Florida (UCF). I work with [Dr. Timothy L. Hawthone](https://sciences.ucf.edu/sociology/thawthorne/) co-lead an NSF colaborative coastal mapping [project](https://www.citizensciencegis.org/nsfsmithosniandrones) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
 
-I have multiple education backgrounds with a B.S. degree in applied mathematics, an M.S. in computer science, and an M.A. in GIS. I received my Ph.D. in Geography at the University of Cincinnati (UC) advised by Dr. Hongxing Liu. 
+I have multiple education backgrounds with a B.S. degree in Applied Mathematics, an M.S. in Computer Science, and an M.A. in GIS. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). 
 
 My research interests are: **_GIScience, spatial statistics, UAV & drone mapping, citizen science, environmental and sociological modeling._**
 
