@@ -23,7 +23,7 @@ redirect_from:
 
 2019
 ======
-11.18.2019 [*Celebrate UCF GIS day: ur Maps, Apps & Drones Tour and GeoBus*](https://www.citizensciencegis.org/blog/gisday19)
+11.18.2019 [*Celebrate UCF GIS day: Maps, Apps & Drones Tour and GeoBus*](https://www.citizensciencegis.org/blog/gisday19)
 
 11.08.2019 [*Capturing the Beauty of Belize from Above with Smithsonian MarineGEO*](https://www.citizensciencegis.org/blog/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo)
 
