@@ -27,11 +27,11 @@ redirect_from:
 
 11.08.2019 [*Capturing the Beauty of Belize from Above with Smithsonian MarineGEO*](https://www.citizensciencegis.org/blog/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo)
 
-10.07.2019 [*UAV fieldwork Completes in Alaska: "The Last Frontier"*](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
-
 09.12.2019 [*The Golden Rule, DroneCat and GeoBus at Central Florida GIS workshop*](https://www.citizensciencegis.org/blog/dr-hawthorne-brings-drone-cat-and-geobus-to-central-florida-gis-workshop)
 
 09.12.2019 [*Citizen Science GIS students present in Central Florida GIS Workshop and win student competition*](https://www.citizensciencegis.org/blog/kirsten-bouck-and-morgan-mcdonald-won-the-student-presentation-competition)
+
+08.07.2019 [*UAV fieldwork Completes in Alaska: "The Last Frontier"*](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
 
 07.25.2019 [*UAV fieldwork finished in Southern California with SDSU and Smithsonian MarineGEO*](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
 
