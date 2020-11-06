@@ -29,7 +29,7 @@ Bo Yang\
 [Bo.Yang[a]ucf.edu](Bo.Yang@ucf.edu) \
 (407) 823-4192\
 4297 Andromeda Loop, Orlando, FL 32816\
-University of Central Florida\
+University of Central Florida
 
 
 {% if author.googlescholar %}
