@@ -7,7 +7,7 @@ author_profile: true
 ### PEER-REVIEWED Publications
 
 2020：
-* **Yang, B.**; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Feinman, M.; Searson, H. (2020) Developing an Introductory UAV/Drone Mapping Training Program for Seagrass Monitoring and Research. *Drones*, 4, 70. (IF: 3.176) [DOI:10.3390/drones4040070](https://doi.org/10.1080/13658816.2020.1737701)
+* **Yang, B.**; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Feinman, M.; Searson, H. (2020) Developing an Introductory UAV/Drone Mapping Training Program for Seagrass Monitoring and Research. *Drones*, 4, 70. (IF: 3.176) [DOI:10.3390/drones4040070](https://doi.org/10.3390/drones4040070)
 * **Yang, B.**, Tong, S., & Fan, R., (2020). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. *Journal of Environmental Informatics*. (IF: 4.521) [Doi:10.3808/jei.202000433](http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433)
 * **Yang, B.**, Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H., (2020). A spatio-temporal method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. *International Journal of Geographical Information Science*, 1-25. (IF: 3.545) [DOI: 10.1080/13658816.2020.1737701](https://doi.org/10.1080/13658816.2020.1737701)
 * Shu, S., Liu, H., Frappart, F., Kang, E.L., **Yang, B.**, Xu, M., Huang, Y., Wu, B., Yu, B., Wang, S. and Beck, R., 2020. Improving Satellite Waveform Altimetry Measurements With a Probabilistic Relaxation Algorithm. *IEEE Transactions on Geoscience and Remote Sensing*. (IF:6.120) [DOI: 10.1109/TGRS.2020.3010184](https://doi.org/10.1109/TGRS.2020.3010184)
