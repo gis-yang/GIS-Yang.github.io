@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### PEER-REVIEWED Publications
 
 2020：
 * **Yang, B.**, Liu, H., Kang, E., Shu, S., Xu, M., Wu, B., Beck, R., Hinkel, K., & Yu, B., (2020) Spatio-temporal Cokriging method for blending and downscaling multi-scale remote sensing data. *Remote Sensing of Environment* (In press)
