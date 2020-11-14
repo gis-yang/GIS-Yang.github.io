@@ -5,8 +5,8 @@ permalink: /Projects/
 author_profile: True
 ---
 
-## [NSF Drone Mapping and GIS for coastal seagrass](http://www.citizensciencegis.org/projects/drone-mapping/)
-I serve as leading postdoc for a collaborative $1.3 million dollar grant  from National Science Foundation (NSF) Division of Ocean Sciences supports Citizen Science GIS at the University of Central Florida (UCF). This project is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
+## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
+I serve as leading postdoc for a collaborative $1.3 million dollar grant from National Science Foundation (NSF) Division of Ocean Sciences supports Citizen Science GIS at the University of Central Florida (UCF). This project is one of the earliest attempts to employ UAV mapping in seagrass management and conservation across 23 degrees of latitude over an extended time series.
 <img src="/images/OR_eelgrass.jpg">
 
 
