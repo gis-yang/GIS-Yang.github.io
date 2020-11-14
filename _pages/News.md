@@ -11,6 +11,8 @@ redirect_from:
 
 2020
 ======
+10.19.2020 [*The west coastal UAV mapping for seagrass/eelgrass featured on Cornell CALS news!*](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)
+
 09.16.2020 [*Summer NSF Pacific coast drone mapping completed safely during COVID-19*](https://www.citizensciencegis.org/blog/summer-nsf-pacific-coast-drone-mapping-completed-safely-during-covid-19)
 
 07.20.2020 [*NSF drone mapping finds a change of eelgrass bed in spatial extent and patchiness*](https://www.citizensciencegis.org/blog/eelresults20)
