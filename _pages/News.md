@@ -2,7 +2,7 @@
 layout: archive
 title: "News"
 permalink: /News/
-author_profile: true
+author_profile: false
 redirect_from:
   - /blog
 ---
