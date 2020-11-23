@@ -49,6 +49,8 @@ redirect_from:
 
 (06/12) *UAV fieldwork completed with Cornell team at Friday Harbor Lab, WA* [[More]](https://www.citizensciencegis.org/blog/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell)
 
+(06/01) *New paper about using geo-statistical method for sharpening and forecasting the landuse change* [[More]](https://doi.org/10.1016/j.jag.2019.03.010)
+
 (04/09) *AAG presentation: geo-statistical approach to blend UAV imagery with satellite data* [[More]](https://www.citizensciencegis.org/blog/researcher-at-univ-of-central-florida-is-going-to-use-geo-statistical-approach-to-blend-uav-imagery-with-satellite-data-for-monitoring-seagrass-along-west-coast)
 
 (04/05) *Presentation at at UCF Research Week kick-off event: multi-spectral UAV mapping for Indian River Lagoon* [[More]](https://www.citizensciencegis.org/blog/dr-yang-presented-the-multi-spectral-uav-mapping-in-ucf-research-week-event)
