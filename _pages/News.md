@@ -11,7 +11,7 @@ redirect_from:
 
 2020
 ======
-(11/03)  *New paper published about drone training program for seagrass along the west coast* [[More]](DOI:10.3390/drones4040070)
+(11/03) *New paper published about drone training program for seagrass along the west coast* [[More]](DOI:10.3390/drones4040070)
 
 (10/19) *The west coast UAV mapping for seagrass/eelgrass featured on Cornell CALS news* [[More]](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)
 
@@ -24,6 +24,8 @@ redirect_from:
 (04/22) *New K12 Teacher Funding for Drones, GIS and Fieldwork from our NSF Grant* [[More]](https://www.citizensciencegis.org/blog/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant)
 
 (03/21) *Top 5 CSGIS Drone Shots* [[More]](https://www.citizensciencegis.org/blog/top-5-csgis-drone-shots)
+
+(03/13) *New paper on IJGIS about using geo-statistical method and nightlight remtoe sensing data predict crime* [[More]](https://doi.org/10.1080/13658816.2020.1737701)
 
 2019
 ======
