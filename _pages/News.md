@@ -11,7 +11,7 @@ redirect_from:
 
 2020
 ======
-(11/03)  *New paper published about drone training program for seagrass along the west coast* [[More]][DOI:10.3390/drones4040070]
+(11/03)  *New paper published about drone training program for seagrass along the west coast* [[More]](DOI:10.3390/drones4040070)
 
 (10/19) *The west coast UAV mapping for seagrass/eelgrass featured on Cornell CALS news* [[More]](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)
 
