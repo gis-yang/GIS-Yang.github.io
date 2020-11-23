@@ -39,7 +39,7 @@ redirect_from:
 
 (08/07) *UAV fieldwork Completes in Alaska: "The Last Frontier"* [[More]](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
 
-(07/27) *New paper about UAV-based Object-Oriented Classification for Coastal Management in the East Central Coast of Florida* [[More]](https://doi.org/10.3390/drones3030060 )
+(07/27) *New paper about UAV-based object-oriented classification for Coastal Management in central Florida* [[More]](https://doi.org/10.3390/drones3030060 )
 
 (07/25) *UAV fieldwork finished in Southern California with SDSU and Smithsonian MarineGEO* [[More]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
 
