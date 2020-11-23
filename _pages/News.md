@@ -11,6 +11,8 @@ redirect_from:
 
 2020
 ======
+(11/03)  *New paper published about drone training program for seagrass along the west coast* [[More]][DOI:10.3390/drones4040070]
+
 (10/19) *The west coast UAV mapping for seagrass/eelgrass featured on Cornell CALS news* [[More]](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)
 
 (09/16) *Summer NSF Pacific coast drone mapping completed safely during COVID-19* [[More]](https://www.citizensciencegis.org/blog/summer-nsf-pacific-coast-drone-mapping-completed-safely-during-covid-19)
@@ -34,6 +36,8 @@ redirect_from:
 (09/12) *Citizen Science GIS students present in Central Florida GIS Workshop and win student competition* [[More]](https://www.citizensciencegis.org/blog/kirsten-bouck-and-morgan-mcdonald-won-the-student-presentation-competition)
 
 (08/07) *UAV fieldwork Completes in Alaska: "The Last Frontier"* [[More]](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
+
+(07/27) *New paper about UAV-based Object-Oriented Classification for Coastal Management in the East Central Coast of Florida* [[More]](https://doi.org/10.3390/drones3030060 )
 
 (07/25) *UAV fieldwork finished in Southern California with SDSU and Smithsonian MarineGEO* [[More]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
 
