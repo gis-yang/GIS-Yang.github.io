@@ -25,7 +25,7 @@ redirect_from:
 
 (03/21) *Top 5 CSGIS Drone Shots* [[More]](https://www.citizensciencegis.org/blog/top-5-csgis-drone-shots)
 
-(03/13) *New paper on IJGIS about using geo-statistical method and nightlight remtoe sensing data predict crime* [[More]](https://doi.org/10.1080/13658816.2020.1737701)
+(03/13) *New paper on IJGIS using geo-statistical method and nightlight remtoe sensing data to predict crime* [[More]](https://doi.org/10.1080/13658816.2020.1737701)
 
 2019
 ======
@@ -49,7 +49,7 @@ redirect_from:
 
 (06/12) *UAV fieldwork completed with Cornell team at Friday Harbor Lab, WA* [[More]](https://www.citizensciencegis.org/blog/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell)
 
-(06/01) *New paper about using geo-statistical method for sharpening and forecasting the landuse change* [[More]](https://doi.org/10.1016/j.jag.2019.03.010)
+(06/01) *New paper using geo-statistical method for sharpening and forecasting the landuse change* [[More]](https://doi.org/10.1016/j.jag.2019.03.010)
 
 (04/09) *AAG presentation: geo-statistical approach to blend UAV imagery with satellite data* [[More]](https://www.citizensciencegis.org/blog/researcher-at-univ-of-central-florida-is-going-to-use-geo-statistical-approach-to-blend-uav-imagery-with-satellite-data-for-monitoring-seagrass-along-west-coast)
 
