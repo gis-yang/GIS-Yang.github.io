@@ -22,7 +22,7 @@ I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of 
 
 Pronouns: he/him/his 
 
-[*Yang's Curriculum Vitae*](https://docs.google.com/document/d/1X4dQp722FGkrhZA4qp6Eu7vWaWDV-otF2zpRAI35AHI/edit?usp=sharing)
+[*Yang's Curriculum Vitae*](https://docs.google.com/document/d/1YLunSq26t_s_2S5B6ao-vmMRS772Uvg8Iy_7dgD-FvY/edit?usp=sharing)
 
 
 
