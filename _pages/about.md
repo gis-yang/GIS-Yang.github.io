@@ -16,7 +16,7 @@ the University of Central Florida (UCF). I work with [Dr. Timothy Hawthone](http
 
 I have multiple education backgrounds with a B.S. degree in Applied Mathematics, an M.S. in Computer Science, and an M.A. in GIS. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). 
 
-My research interests are: **_GIScience, spatial statistics, UAV & drone mapping, citizen science, environmental and sociological modeling._**
+My research interests are: **_GIScience, spatial statistics, UAV & drone mapping, citizen science, environmental and societal modeling._**
 
 I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. I am maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for seagrass mapping.
 
