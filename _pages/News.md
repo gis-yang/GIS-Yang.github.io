@@ -11,7 +11,7 @@ redirect_from:
 
 2020
 ======
-(12/24) *New paper about Spatio-temporal Cokriging algorithm published in Remote Sensing of Environmental* [[More]](https://doi.org/10.1016/j.rse.2020.112190)
+(12/24) *New paper about Spatio-temporal Cokriging algorithm published in Remote Sensing of Environment* [[More]](https://doi.org/10.1016/j.rse.2020.112190)
 
 (11/03) *New paper published about drone training program for seagrass along the west coast* [[More]](DOI:10.3390/drones4040070)
 
