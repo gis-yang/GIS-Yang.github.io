@@ -12,7 +12,7 @@ Yang's GIS page aims to share research progresses and resources of Geographical 
 I am an interdisciplinary postdoc in the 
 Department of Sociology
 and the College of Sciences GIS Cluster at 
-the University of Central Florida (UCF). I work with [Dr. Timothy Hawthone](https://sciences.ucf.edu/sociology/thawthorne/) co-leading an NSF colaborative coastal mapping [project](http://www.citizensciencegis.org/projects/drone-mapping/) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
+the University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping [project](http://www.citizensciencegis.org/projects/drone-mapping/) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
 
 I have multiple education backgrounds with a B.S. degree in Applied Mathematics, an M.S. in Computer Science, and an M.A. in GIS. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). 
 
