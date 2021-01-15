@@ -22,7 +22,7 @@ For my doctoral dissertation, I developed and implemented a novel geo-statistica
 <img src="/images/CK_cloud.jpg">
  
 
-## [NSF Research Experiences for Teachers (RET)](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
+## [K12 outreach, participory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
 I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
 <img src="/images/sandbox.jpg">
 
