@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yang's GIS page aims to share research progresses and resources of Geographical Information Science, remote sensing, and environmental science. 
+Yang's GIS page aims to share research progresses and resources of Geographical Information Science, Remote Sensing, and Environmental Science. 
 
-I am an interdisciplinary postdoctral research scholar in the Department of Sociology and the College of Sciences GIS Cluster at University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping [project](https://gis-yang.github.io//Projects/) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
+I have an interdisciplinary education background in mathematics (undergraduate), computer science (graduate), and geography (doctoral). Currenlty, I am an postdoctral research scholar in the Department of Sociology and Geospatial Cluster in the College of Sciences at University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping [project](https://gis-yang.github.io//Projects/) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. I am maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for coastal mapping.
+
 
 I have multiple education backgrounds with a B.S. degree in Applied Mathematics, an M.S. in Computer Science, and an M.A. in GIS. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). 
 
-My research interests are: **_GIScience, spatial statistics, UAV & drone mapping, citizen science, environmental and societal modeling._**
-
-I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. I am maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for coastal mapping.
+My research interests are: **_GIScience, Remote Sensing, Spatial Statistics, Unmanned Aerial Vehicle (UAV), Citizen Science, Environmental and Societal Modeling_**. 
+I am an FAA part 107 remote pilot and NASBLA recognized boat driver. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
 
 Pronouns: he/him/his 
 
