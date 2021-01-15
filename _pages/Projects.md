@@ -25,7 +25,7 @@ For more info and viewing the data, please visit our [project page](https://www.
 
 
 
-## [Geospatial data science & machine learning for Environmental science](https://github.com/gis-yang/Crime-prediction)
+## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
 
 For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
 <img align="center" width="720" src="/images/CK_cloud.jpg">{:width="720px"}
