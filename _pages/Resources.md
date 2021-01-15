@@ -10,6 +10,7 @@ author_profile: True
 This open-access drone mapping training course is designed to use drones to collect remote sensing data for coastal mapping and seagrass conservation. We create this training course for research partners and broader communities to learn how to fly drones, and perform data processing in Geographical Information Science (GIS) method. This training course contains topics of flying drones, coastal mapping principles, safety guides, preflight and planning, FAA part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS based drone image analyses. 
 
 
+
 ## [Citizen Science GIS](http://www.citizensciencegis.org/)
 Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of four higher education awardees worldwide), is housed at UCF Department of Sociology and the UCF College of Sciences Geospatial Technologies Cluster lead by Dr. Timothy Hawthorne. We are a diverse group of faculty, researchers, students, and community partners around the world committed to strengthening the connections between science and society. Checkout our [website](https://www.citizensciencegis.org/) and [facebook](https://www.facebook.com/citizensciencegis/)/[twitter](https://twitter.com/citizen_gis) for more information and oppotunities. We are hiring Undergraduate Research Assistants and Graduate Research Assistants. 
 <img src="/images/Geobus.jpg">
