@@ -68,7 +68,7 @@ redirect_from:
 
 2018
 ======
-(11/28) *A Bird’s-Eye View of the Indian River Lagoon* [[More]](https://www.citizensciencegis.org/blog/a-birds-eye-view-of-the-indian-river-lagoon-2)
+(11/28) *A Bird’s-Eye View of the Indian River Lagoon* [[More]](https://www.citizensciencegis.org/blog/a-birds-eye-view-of-the-indian-river-lagoon?rq=birds)
 
 (10/05) *Bo Yang joined Citizen Science GIS team at UCF* [[More]](https://www.citizensciencegis.org/blog/welcome-dr-bo-yang)
 
