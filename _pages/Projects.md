@@ -7,20 +7,13 @@ author_profile: True
 
 ## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
 I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) the UAV mapping of coastal seagrass sites along the Pacific (west) coast of North America through a $1.3 million collaborative NSF grant for the UCF portion, one of the earliest attempts to employ UAV mapping in coastal management and seagrass conservation. This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing. 
+
 <img src="/images/OR_eelgrass.jpg">{:width="720px"}
 
  Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institutes. Our collaborators include: 
- [Carla Gomes](https://www.cs.cornell.edu/gomes/),
- [Deanna Beatty](https://deannabeatty.github.io/), 
- [Drew Harvell](http://www.eeb.cornell.edu/harvell/),
- [Emmett Duffy](https://marinegeo.si.edu/emmett-duffy), 
- [Fiona Tomas Nash ](https://fw.oregonstate.edu/users/fiona-tomas-nash).
- [Ginny Eckert](https://alaskaseagrant.org/about/directory/ginny-eckert/),  
- [John Stachowicz](https://stachlab.wordpress.com/),
- [Kevin Hovel](http://sci.sdsu.edu/hovel/), 
- [Lillian Aoki](https://lillianaoki.weebly.com/), 
- [Margot Hessing-Lewis](https://www.hakai.org/), 
- [Olivia Graham](https://twitter.com/o_jgraham), 
+ [Carla Gomes](https://www.cs.cornell.edu/gomes/), [Deanna Beatty](https://deannabeatty.github.io/), [Drew Harvell](http://www.eeb.cornell.edu/harvell/),
+ [Emmett Duffy](https://marinegeo.si.edu/emmett-duffy), [Fiona Tomas Nash ](https://fw.oregonstate.edu/users/fiona-tomas-nash). [Ginny Eckert](https://alaskaseagrant.org/about/directory/ginny-eckert/), [John Stachowicz](https://stachlab.wordpress.com/), [Kevin Hovel](http://sci.sdsu.edu/hovel/), 
+ [Lillian Aoki](https://lillianaoki.weebly.com/), [Margot Hessing-Lewis](https://www.hakai.org/), [Olivia Graham](https://twitter.com/o_jgraham), 
  
  <img src="/images/Drones_locations.jpg">{:width="720px"}
 
