@@ -14,14 +14,15 @@ I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/
  [Deanna Beatty](https://deannabeatty.github.io/), 
  [Drew Harvell](http://www.eeb.cornell.edu/harvell/),
  [Emmett Duffy](https://marinegeo.si.edu/emmett-duffy), 
+ [Fiona Tomas Nash ](https://fw.oregonstate.edu/users/fiona-tomas-nash).
  [Ginny Eckert](https://alaskaseagrant.org/about/directory/ginny-eckert/),  
  [John Stachowicz](https://stachlab.wordpress.com/),
  [Kevin Hovel](http://sci.sdsu.edu/hovel/), 
  [Lillian Aoki](https://lillianaoki.weebly.com/), 
  [Margot Hessing-Lewis](https://www.hakai.org/), 
  [Olivia Graham](https://twitter.com/o_jgraham), 
- [Tomas Nash, Fiona](https://fw.oregonstate.edu/users/fiona-tomas-nash).
-<img src="/images/Drones_locations.jpg">
+ 
+ <img src="/images/Drones_locations.jpg">
 
 For the past two summers, I have been leading a drone mapping team travel along the Pacific coast and collected over 10,000 drone mapping data along the Pacific coast. The drone remote sensing and field sampling sites include (From north to south): (1) six sites around Prince of Wales Island, Alaska; (2) five sites on the Central Coast of British Columbia; (3) five sites in the San Juan Islands; (4) three sites in Yaquina Bay, Oregon; (5) two sites in Coos Bay, Oregon; (6) six sites in Bodega Bay and Tomales Bay, northern California; and (7) six sites in San Diego and Mission Bay in southern California.
 <img src="/images/AK_Fieldwork.png">
