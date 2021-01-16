@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <img align="center"  src="/images/DJI_0896.jpg">
+
 Yang's GIS page aims to share research progresses and resources of Geographical Information Science, Remote Sensing, and Environmental Science. 
 
+ <img align="center"  src="/images/DJI_0896.jpg">
+ 
 Currenlty, I am an postdoctral research scholar in the Department of Sociology and Geospatial Cluster in the College of Sciences at University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping [project](https://gis-yang.github.io//Projects/) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
 
 
