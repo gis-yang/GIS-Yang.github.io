@@ -24,7 +24,9 @@ World Regional Geography investigates the variety and difference of places and r
 ### Geog1005 Human Geography in Action 
 ![image](/images/humangeography.jpg){:height="240px" width="240px"}{: style="float: left"}
 Human Geography in Action introduces the historical, sociological, economical, and political forces that have shaped society. National and international policies and relationships and their connections to current news and events will be covered. Human geography deals with the world as it is and with the world as it might be made to be. Its emphasis is on people: where they are, what they are like, how they interact over space, and what kinds of landscapes of human use they erect on the natural landscapes they occupy. It encompasses all those interests and topics of geography that are not directly concerned with the physical environment or, like cartography, are technical in orientation.
-                                                                                                 ### Geol1005 Environmental Geology
+
+
+### Geol1005 Environmental Geology
 ![image](/images/Geology.png{:height="240px" width="240px"}{: style="float: left"} Environmental Geology includes in-depth study of selected topics related to physical processes at the earth’s surface, with an emphasis on understanding the scientific theories behind the geological principles. Topics are explored within the general context of human impacts on the environment and human responses to environmental hazards. For each topic, the political and legal ramifications of responses to hazards are considered in addition to better understanding the underlying scientific concepts. Included are surface water, flooding, and flood insurance; groundwater depletion, movement and contamination; major storms and beach erosion; volcano hazards from mudflows; and global climate change.                 
 
 ### Geog1012 Landform and soils 
