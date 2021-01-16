@@ -7,18 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ <img align="center"  src="/images/DJI_0894.JPG">
+ 
 Yang's GIS page aims to share research progresses and resources of Geographical Information Science, Remote Sensing, and Environmental Science. 
-
- <img align="center"  src="/images/DJI_0896.JPG">
  
 I am an postdoctral research scholar in the Department of Sociology and Geospatial Cluster in the College of Sciences at University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping [project](https://gis-yang.github.io//Projects/) supports [Citizen Science GIS](https://www.citizensciencegis.org/). This project is one of the earliest attempts to employ UAV mapping in coastal management and conservation across 23 degrees of latitude. 
-
 
 I have interdisciplinary education backgrounds with a B.S. degree in Applied Mathematics, an M.S. in Computer Science. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). My research interests are: **_GIScience, Remote Sensing, Spatial Statistics, Unmanned Aerial Vehicle (UAV), Human-environment Interactions, and Citizen Science_**. 
 
 For my doctoral dissertation, I developed and implemented a new geo-statistical (ST-Cokriging) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capability in filling missing data and uncertainty estimates. 
-
 
 I am an FAA part 107 remote pilot and NASBLA recognized boat driver. I am maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
 
