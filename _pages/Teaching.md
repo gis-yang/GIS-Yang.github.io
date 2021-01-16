@@ -27,7 +27,7 @@ Human Geography in Action introduces the historical, sociological, economical, a
 
 
 ### Geol1005 Environmental Geology
-![image](/images/Geology.jpg){:height="240px" width="240px"}{: style="float: left"}
+![image](/images/Geology.png){:height="240px" width="240px"}{: style="float: left"}
 Environmental Geology includes in-depth study of selected topics related to physical processes at the earth’s surface, with an emphasis on understanding the scientific theories behind the geological principles. Topics are explored within the general context of human impacts on the environment and human responses to environmental hazards. For each topic, the political and legal ramifications of responses to hazards are considered in addition to better understanding the underlying scientific concepts. Included are surface water, flooding, and flood insurance; groundwater depletion, movement and contamination; major storms and beach erosion; volcano hazards from mudflows; and global climate change.                 
 
 ### Geog1012 Landform and soils 
