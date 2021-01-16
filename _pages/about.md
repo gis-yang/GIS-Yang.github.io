@@ -15,7 +15,7 @@ I am an postdoctral research scholar in the Department of Sociology and Geospati
 
 I have interdisciplinary education backgrounds with a B.S. degree in Applied Mathematics, an M.S. in Computer Science. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). My research interests are: **_GIScience, Remote Sensing, Spatial Statistics, Unmanned Aerial Vehicle (UAV), Human-environment Interactions, and Citizen Science_**. 
 
-For my doctoral dissertation, I developed and implemented a new geo-statistical ([ST-Cokriging](https://doi.org/10.1016/j.rse.2020.112190) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capability in filling missing data and uncertainty estimates. 
+For my doctoral dissertation, I developed and implemented a new geo-statistical ([ST-Cokriging](https://doi.org/10.1016/j.rse.2020.112190)) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capability in filling missing data and uncertainty estimates. 
 
 I am an FAA part 107 remote pilot and NASBLA certified boat driver. I maintain an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
 
