@@ -17,7 +17,7 @@ I have interdisciplinary education backgrounds with a B.S. degree in Applied Mat
 
 For my doctoral dissertation, I developed and implemented a new geo-statistical (ST-Cokriging) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capability in filling missing data and uncertainty estimates. 
 
-I am an FAA part 107 remote pilot and NASBLA recognized boat driver. I am maintaining an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
+I am an FAA part 107 remote pilot and NASBLA certified boat driver. I maintain an [open-access UAV/drone training course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
 
 Pronouns: he/him/his 
 
