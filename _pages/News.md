@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+2021
+======
+(01/25) *Recent paper on developing a UAV mapping and training program for seagrass research is highlighted as the cover story in journal Drones* [[More]](https://twitter.com/BoYangGeo/status/1353749770129571845?s=20)
+
 2020
 ======
 (12/24) *New paper about Spatio-temporal Cokriging algorithm published in Remote Sensing of Environment* [[More]](https://doi.org/10.1016/j.rse.2020.112190)
