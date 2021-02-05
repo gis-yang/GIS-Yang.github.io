@@ -11,7 +11,7 @@ redirect_from:
  
 Yang's GIS page aims to share research progresses and resources of Geographical Information Science, Remote Sensing, and Environmental Science. 
 
-I am an postdoctral research scholar in the Department of Sociology and Geospatial Cluster in the College of Sciences at University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping project supports [Citizen Science GIS](https://www.citizensciencegis.org/). This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
+I am an post-doctoral research scholar in the Department of Sociology and Geospatial Cluster in the College of Sciences at University of Central Florida (UCF). I work with Dr. Timothy Hawthone co-leading an NSF colaborative coastal mapping project supports [Citizen Science GIS](https://www.citizensciencegis.org/). This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
 
 I have interdisciplinary education background with a B.S. degree in Applied Mathematics, an M.S. in Computer Science. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). My research interests are: **_GIScience, Remote Sensing, Spatial Statistics, Unmanned Aerial Vehicle (UAV), Human-environment Interactions, and Citizen Science_**. 
 
