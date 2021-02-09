@@ -21,7 +21,7 @@ I have been leading a drone mapping team travel along the Pacific coast and coll
 
 <img align="center" width="720" src="/images/OR_eelgrass.jpg">
 
-For more info and viewing the data, please visit our [project page](https://www.citizensciencegis.org/nsfsmithsoniandrones).
+For more info and viewing the data, please visit our [Project Page](https://www.citizensciencegis.org/nsfsmithsoniandrones) and ArcGIS [Story Map](https://storymaps.arcgis.com/stories/2cea7563c9464afa89b11379479345b9).
 
 
 
