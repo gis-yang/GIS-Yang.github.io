@@ -10,7 +10,7 @@ I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/
 
 <img align="center" width="720" src="/images/AK_Fieldwork.png">
 
- Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institutes. Our collaborators include: 
+ Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institute. Our collaborators include: 
  [Carla Gomes](https://www.cs.cornell.edu/gomes/), [Deanna Beatty](https://deannabeatty.github.io/), [Drew Harvell](http://www.eeb.cornell.edu/harvell/),
  [Emmett Duffy](https://marinegeo.si.edu/emmett-duffy), [Fiona Tomas Nash](https://fw.oregonstate.edu/users/fiona-tomas-nash), [Ginny Eckert](https://alaskaseagrant.org/about/directory/ginny-eckert/), [John Stachowicz](https://stachlab.wordpress.com/), [Kevin Hovel](http://sci.sdsu.edu/hovel/), 
  [Leah Harper](https://marinegeo.si.edu/), [Lillian Aoki](https://lillianaoki.weebly.com/), [Lia Domke](https://www.uaf.edu/uaf/),  [Margot Hessing-Lewis](https://www.hakai.org/), [Olivia Graham](https://twitter.com/o_jgraham), 
