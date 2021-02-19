@@ -7,11 +7,11 @@ author_profile: True
 
 ## University of Central Florida
 
-### SYA6458 Advanced Topics of GIS in Society (2021 Spring)
+### SYA6458 Advanced Topics of GIS in Society (2021Spring)
 ![image](/images/gisinsociety.png){:height="220px" width="220px"}{: style="float: left"}
 Advanced Topics in Geographic Information Systems in Society: This course aims to introduce the cutting-edge applications of GIS impact on society to develop spatial thinking skills in students' particular areas of interest, with an emphasis on learning Python. Topics of WebGIS, GIS programming, and remote sensing applications will be also coverred. This course is organized as a mixed seminar/lab, with weekly readings and a final project. Students will learn how GIS affect and alter the society, and how GIS be developed to reflect complex and ambiguous perceptions of social and environment space. 
 
-### SYA6356 GIS in Society (2020 Spring)
+### SYA6356 GIS in Society (2020Spring)
 ![image](/images/gis.png){:height="220px" width="220px"}{: style="float: left"}
 GIS in Society class is an intro and intermediate course focusing on the conceptual introduction, methodological, and practical applications of Geographic Information Systems (GIS) as the technology's use in society continues to evolve and expand. Students will learn how to use GIS for spatial thinking and spatial analysis. Advanced topics may include, but are not limited to: GIS for exploring social & environmental inequalities, drone and satellite remote sensing, GIS programming for python.The lecture will cover theories, methodologies and applications of GIS techniques. The labs are designed to give students hands-on experience using ArcMap and ArcGIS Online.
 
