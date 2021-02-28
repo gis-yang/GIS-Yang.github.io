@@ -13,7 +13,7 @@ I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/
  Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institute. Our collaborators include: 
  [Carla Gomes (Cornell)](https://www.cs.cornell.edu/gomes/), [Deanna Beatty (UCD)](https://deannabeatty.github.io/), [Drew Harvell(Cornell)](http://www.eeb.cornell.edu/harvell/),
  [Emmett Duffy (SI)](https://marinegeo.si.edu/emmett-duffy), [Fiona Tomas Nash (OSU)](https://fw.oregonstate.edu/users/fiona-tomas-nash), [Ginny Eckert (UAF)](https://alaskaseagrant.org/about/directory/ginny-eckert/), [John Stachowicz (UCD)](https://stachlab.wordpress.com/), [Kevin Hovel (SDSU)](http://sci.sdsu.edu/hovel/), 
- [Leah Harper (SI)](https://marinegeo.si.edu/), [Lillian Aoki(Cornell)](https://lillianaoki.weebly.com/), [Lia Domke (UAF)](https://www.uaf.edu/uaf/),  [Margot Hessing-Lewis (Hakai)](https://www.hakai.org/), [Olivia Graham (Cornell)](https://twitter.com/o_jgraham), 
+ [Leah Harper (SI)](https://marinegeo.si.edu/), [Lillian Aoki (Cornell)](https://lillianaoki.weebly.com/), [Lia Domke (UAF)](https://www.uaf.edu/uaf/),  [Margot Hessing-Lewis (Hakai)](https://www.hakai.org/), [Olivia Graham (Cornell)](https://twitter.com/o_jgraham), 
  
  <img align="center" width="720" src="/images/Drones_locations.jpg">
 
