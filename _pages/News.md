@@ -12,7 +12,7 @@ redirect_from:
 2021
 ======
 
-(03/18) The UAV training and research work has been presented in Esri higher education web meeting "Teaching with Drones" [[Link]](https://community.esri.com/t5/education-blog/teaching-with-drones/ba-p/1038437)
+(03/18) The UAV training and research work is invited to present in Esri higher education web meeting "Teaching with Drones" [[Link]](https://community.esri.com/t5/education-blog/teaching-with-drones/ba-p/1038437)
 
 (02/28) *Special issue on "Drones for Participatory and Community-Based Sciences" in journal Drones launched for community and participatory drone research* [[Link]](https://www.mdpi.com/journal/drones/special_issues/Drones_Community)
 
