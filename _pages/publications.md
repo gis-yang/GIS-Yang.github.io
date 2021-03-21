@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 *2021*:
-* **Yang, B.**, Tong, S., & Fan, R., (2020). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. *Journal of Environmental Informatics*. [DOI:10.3808/jei.202000433](http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433)
+* **Yang, B.**, Tong, S., & Fan, R., (2021). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. *Journal of Environmental Informatics*. [DOI:10.3808/jei.202000433](http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433)
 *	Xu, M., Liu, H., Beck, R., Lekki, J., **Yang, B.,** Liu, Y., Shu, S., et al., (2021). Implementation Strategy and Spatiotemporal Extensibility of Multipredictor Ensemble Model for Water Quality Parameter Retrieval With Multispectral Remote Sensing Data, *IEEE Transactions on Geoscience and Remote Sensing*, [DOI: 10.1109/TGRS.2020.3045921](https://doi.org/10.1109/TGRS.2020.3045921)
 * Shu, S., Liu, H., Beck, R.A., Frappart, F., Korhonen, J., Lan, M., Xu, M., **Yang, B.** and Huang, Y., (2021). Evaluation of Historic and Operational Satellite Radar Altimetry Missions for Constructing Consistent Long-term Lake Water Level Records. *Hydrology and Earth System Sciences* , pp.1-40. [DOI: doi.org/10.5194/hess-2020-510](https://doi.org/10.5194/hess-2020-510)
 *	Wang, Z., Liu, L., Haberman, C., Lan M, **Yang, B.,** Zhou, H., (2021). Burglaries and entry controls in gated communities. *Urban Studies*, 1-13. [DOI: 10.1177/0042098020972636](https://doi.org/10.1177/0042098020972636)
