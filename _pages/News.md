@@ -42,7 +42,7 @@ redirect_from:
 ======
 (11/18) *Celebrate UCF GIS day: Maps, Apps & Drones Tour and GeoBus* [[Link]](https://www.citizensciencegis.org/blog/gisday19)
 
-(11/08) *Capturing the Beauty of Belize from Above with Smithsonian MarineGEO* [[Link]](https://www.citizensciencegis.org/blog/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo)
+(11/08) *Capturing the Beauty of Belize from Above with Smithsonian MarineGEO* [[Link]](https://marinegeo.si.edu/capturing-beauty-belize-above-drones-support-science-and-discovery-0)
 
 (09/12) *The Golden Rule, DroneCat and GeoBus at Central Florida GIS workshop* [[Link]](https://www.citizensciencegis.org/blog/dr-hawthorne-brings-drone-cat-and-geobus-to-central-florida-gis-workshop)
 
