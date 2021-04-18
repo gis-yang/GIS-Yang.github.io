@@ -73,7 +73,7 @@ redirect_from:
 
 (03/11) *Multi-spectral drone mapping fieldwork in Indian River Lagoon* [[Link]](https://www.citizensciencegis.org/blog/multi-spectral-drone-mapping-field-trip-for-indian-river-lagoon-with-citizen-science-gis-team)
 
-(02/05) *Citizen Science GIS K12 Teacher Academy Success* [[Link]](https://www.citizensciencegis.org/blog/citizen-science-gis-teacher-academy-maps-apps-and-drones-training-workshop)
+(02/05) *Citizen Science GIS K12 Teacher Academy Success* [[Link]](https://sciences.ucf.edu/news/gis-academy-gives-teachers-hands-on-experience/)
 
 2018
 ======
