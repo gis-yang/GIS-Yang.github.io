@@ -9,9 +9,11 @@ redirect_from:
 ---
  <img align="center"  src="/images/DJI_0894.JPG">
  
-Yang's GIS page aims to share research progress and resources of Geographical Information Science, Remote Sensing, and Environmental Science. 
+Yang's GIS page aims to share research progress and resources of Geographical Information Science (GIS), Remote Sensing, and Environmental Science. 
 
-I am a post-doctoral research scholar in the Department of Sociology and Geospatial Cluster in the College of Sciences at University of Central Florida (UCF). I work with Dr. Timothy Hawthorne co-leading an NSF collaborative coastal mapping project supports [Citizen Science GIS](https://www.citizensciencegis.org/). This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
+**News: Bo Yang will be starting as an Assistant Professor in the [Department of Urban & Regional Planning](https://www.sjsu.edu/urbanplanning/) at San Jose State University in Fall 2021**
+
+I am a post-doctoral research scholar in [Citizen Science GIS](https://www.citizensciencegis.org/) group at University of Central Florida (UCF). I work with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) co-leading an NSF collaborative coastal mapping project supports. This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
 
 I have interdisciplinary education background with a B.S. degree in Applied Mathematics, an M.S. in Computer Science. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). My research interests are: **_GIScience, Remote Sensing, Spatial Statistics, Unmanned Aerial Vehicle (UAV), Human-environment Interactions, and Citizen Science_**. 
 
