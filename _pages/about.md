@@ -11,7 +11,7 @@ redirect_from:
  
 Yang's GIS page aims to share research progress and resources of Geographical Information Science (GIS), Remote Sensing, and Environmental Science. 
 
-**News:** *Bo Yang will be starting as an Assistant Professor in the [Department of Urban & Regional Planning](https://www.sjsu.edu/urbanplanning/) at San Jose State University in Fall 2021*
+**News:** *Bo Yang will be starting as an Assistant Professor in the [Department of Urban & Regional Planning](https://www.sjsu.edu/urbanplanning/) at San Jose State University in Fall 2021.*
 
 I am a post-doctoral research scholar in [Citizen Science GIS](https://www.citizensciencegis.org/) group at University of Central Florida (UCF). I work with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) co-leading an NSF collaborative coastal mapping project supports. This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
 
@@ -19,7 +19,7 @@ I have interdisciplinary education background with a B.S. degree in Applied Math
 
 For my doctoral dissertation, I developed and implemented a new geo-statistical ([ST-Cokriging](https://doi.org/10.1016/j.rse.2020.112190)) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capabilities in filling missing data and uncertainty estimates. 
 
-I am an FAA part 107 remote pilot maintaining an open-access UAV/drone training [course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
+I am an FAA part 107 remote pilot maintaining an open-access UAV/drone [training course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
 
 Pronouns: he/him/his 
 
