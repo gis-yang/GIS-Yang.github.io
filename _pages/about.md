@@ -11,7 +11,7 @@ redirect_from:
  
 Yang's GIS page aims to share research progress and resources of Geographical Information Science (GIS), Remote Sensing, and Environmental Science. 
 
-**News: Bo Yang will be starting as an Assistant Professor in the [Department of Urban & Regional Planning](https://www.sjsu.edu/urbanplanning/) at San Jose State University in Fall 2021**
+**News:** *Bo Yang will be starting as an Assistant Professor in the [Department of Urban & Regional Planning](https://www.sjsu.edu/urbanplanning/) at San Jose State University in Fall 2021*
 
 I am a post-doctoral research scholar in [Citizen Science GIS](https://www.citizensciencegis.org/) group at University of Central Florida (UCF). I work with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) co-leading an NSF collaborative coastal mapping project supports. This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
 
