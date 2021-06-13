@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Bo Yang"
   avatar           : "profile.png"
+<<<<<<< HEAD
   bio              : "Post-doctoral Scholar at UCF. GIScience, Remote Sensing, UAV, Human-environment Interaction, Machine Learning, and Citizen Science"
+=======
+  bio              : "Post-doctoral Research Scholar at UCF. Assistant Professor of GIScience at San José State University GIScience, Remote Sensing, UAV, Human-environment Interaction, Machine Learning, and Citizen Science"
+>>>>>>> parent of 191ef83 (Revert "Update _config.yml")
   location         : "Orlando, FL"
   email            : "Bo.Yang@ucf.edu"
   employer         : 

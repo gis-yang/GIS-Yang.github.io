@@ -6,8 +6,7 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Resources"
-    url: /Resources/
+
 
   - title: "Teaching"
     url: /Teaching/
@@ -20,6 +19,9 @@ main:
     
   #- title: "Posts"
   #  url: /year-archive/
+  
+  - title: "Citizen Science GIS"
+    url: /CitizenScienceGIS/
     
   - title: "News"
     url: /News/
